@@ -23,7 +23,7 @@ The application consists of three main components:
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/Himanshigupta1624/code-analyzer-microservices.git
 ```
 2. Create a virtual environment:
 ```
